@@ -272,7 +272,7 @@ class MyTreeMap extends TreeMap<String, Double> {
     }
 }
 
-public class HW1 {
+public class RecommendSystem {
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
